@@ -1,2 +1,3 @@
 # async-redux-practice
-Teaching exercise in boot camp
+
+Teaching exercise in the Enspiral Dev Academy boot camp.
